@@ -1,0 +1,8 @@
+class AppSettings:
+    POKEAPI_BASE_URL = "https://pokeapi.co/api/v2"
+    POKEAPI_TIMEOUT = 10
+    RANDOM_POKEMON_MIN_ID = 1
+    RANDOM_POKEMON_MAX_ID = 1025
+    MOVES_LIMIT_MIN = 1
+    MOVES_LIMIT_MAX = 50
+    TYPE_SAMPLE_SIZE = 20
